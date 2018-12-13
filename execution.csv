@@ -1,0 +1,5 @@
+Test Result ID,Test Case,Path,Test Suite,OS,OS Version,Browser,Browser Version,Status,Start Time,End Time,Duration,Age
+4938585,New Test Case (3),Test Cases,Suite3,Windows 10,Windows 10 64bit,Chrome ,70.0.3538.110,FAILED,2018-12-13 12:05:37,2018-12-13 12:06:42,65004,1
+4938539,New Test Case (1),Test Cases,Suite1,Windows 10,Windows 10 64bit,Chrome ,70.0.3538.110,PASSED,2018-12-13 12:05:34,2018-12-13 12:05:55,20965,4
+4938532,New Test Case (2),Test Cases,Suite2,Windows 10,Windows 10 64bit,Chrome ,70.0.3538.110,PASSED,2018-12-13 12:05:35,2018-12-13 12:05:48,13732,4
+4938531,New Test Case (4),Test Cases,Regression Test,Windows 10,Windows 10 64bit,Chrome ,70.0.3538.110,PASSED,2018-12-13 12:05:34,2018-12-13 12:05:43,9170,4
